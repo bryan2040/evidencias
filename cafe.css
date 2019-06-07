@@ -41,7 +41,8 @@ position:fixed;z-index: 1;/*paraponerlo ariba de todos xd*/
 	top:15%;
 	left:25% ;
 }
-video{
+
+.videoo{
 	width:459px; 
 	border:5px solid #292EF8;
 	background: #29F8E7 ;
